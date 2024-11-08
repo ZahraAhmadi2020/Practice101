@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Текст для prerelease
-=======
+
 Мой файл для ветки PRERELEASE
->>>>>>> practice/main
