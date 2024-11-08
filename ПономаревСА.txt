@@ -41,3 +41,4 @@ Author: Simon Ponomarev <patttsimon@gmail.com>
 Date:   Fri Nov 8 16:42:12 2024 +0500
 
     Мой первый коммит
+Ох ну и набедокурил я с ветками)))
