@@ -1,0 +1,37 @@
+commit 120bb99b35063686deb7bddd011316dedc31dd81
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:07:11 2024 +0500
+
+    Добавлен файл test.txt
+
+commit 1aafaee7110fa569199844e4824cf7620afc67d8
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 18:02:59 2024 +0500
+
+    Еще один коммит
+
+commit 500ba6475f63de9a405367111d1cf102c6676805
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 17:56:41 2024 +0500
+
+    Revert "Добавлена оценка текущего статуса в readme.txt"
+    
+    This reverts commit 8056095d66b313dfefbdbad8feaf4ba49e2fb0c7.
+
+commit b3640920ef64e3f41e287cfc39d274057caf59d6
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:57:23 2024 +0500
+
+    Добавлено название аудитории в readme.txt
+
+commit 8056095d66b313dfefbdbad8feaf4ba49e2fb0c7
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:32:57 2024 +0500
+
+    Добавлена оценка текущего статуса в readme.txt
+
+commit 705fadbeb5909158ffab704d396c6bb092068d54
+Author: Darya Buturlakina <darja020302@gmail.com>
+Date:   Fri Nov 8 16:18:03 2024 +0500
+
+    Мой первый коммит
