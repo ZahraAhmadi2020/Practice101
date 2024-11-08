@@ -1,0 +1,43 @@
+commit f408bd6ff2bb07500291721af201e887680a7d92
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:57:29 2024 +0500
+
+    Коммит в ветку пререлиз
+
+commit a0b2eebffde9b5ea68c3df5bb3bb3bbbbed522d5
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:56:38 2024 +0500
+
+    Коммит в ветку тест
+
+commit 8831ae116e2dc6b52ba4d01a9cedb1ef0eb49f6c
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:53:28 2024 +0500
+
+    Мой четвертый коммит
+
+commit 1ef2a0954cac71c58835deeb431045867e412b82
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:51:08 2024 +0500
+
+    Revert "Мой второй коммит, изменён"
+    
+    This reverts commit 6c9761657d937d64e9d97037cde45d6bb827b220.
+
+commit 1de6cbe2e8e060d18894718330acbb0f2a22cb2e
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:46:42 2024 +0500
+
+    Мой третий коммит
+
+commit 6c9761657d937d64e9d97037cde45d6bb827b220
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:43:46 2024 +0500
+
+    Мой второй коммит, изменён
+
+commit e969b922fcd34ccf4d86bbed8104422f82e43d65
+Author: Simon Ponomarev <patttsimon@gmail.com>
+Date:   Fri Nov 8 16:42:12 2024 +0500
+
+    Мой первый коммит
