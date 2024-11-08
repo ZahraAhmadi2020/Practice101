@@ -1,0 +1,265 @@
+commit 0b11baaaff3c928d0274d68b5c35d000daa30c3b
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 17:37:43 2024 +0500
+
+    Added prerelease.txt in the PRERELEASE branch
+
+commit f97513996c7a304ca5c8d3b87be2d5a1bd06a35f (origin/master, origin/TEST, master, TEST)
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 17:33:33 2024 +0500
+
+    Added test.txt in the TEST branch
+
+commit 6637eafabe7bdf23ea290c9eaae8f51aba7bd54b
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 17:16:34 2024 +0500
+
+    third
+
+commit fb44aade1201dee0236a4485768c587abc242cd6
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Fri Nov 8 17:04:48 2024 +0500
+
+    second, changed
+
+commit 0b359fb2c56c3140badd1b259dc49c8b1ca93c65
+Author: Maawiya <maawiyaabdi120@gmail.com>
+Date:   Thu Nov 7 21:19:52 2024 +0500
+
+    My first commit
+
+commit 8f1c65d2c329545535bb9ae888f0ace00aed2e17
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 13:10:12 2024 +0500
+
+    Passed
+
+commit cfc05bacc4583ccf43fc0def32f87868757f207b
+Merge: 9e76638 c1f60f6
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 13:01:20 2024 +0500
+
+    merge readme
+
+commit 9e76638ac36425974c80e4376098c8af8805f745
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:31:46 2024 +0500
+
+    Add local log
+
+commit 1a2d19dba4bb0445624998631161d4f68b0ce99c
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:18:09 2024 +0500
+
+    Add prerelease.txt
+
+commit 46ff8608b591f3d91985101852684703deffa5b7
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:15:12 2024 +0500
+
+    Add .gitignore
+
+commit c1f60f6b0185b3085e02fb22016ae93d06713b57
+Author: AnnaErs <annaershova02@gmail.com>
+Date:   Fri Nov 8 12:15:01 2024 +0500
+
+    final commit in practice_repo
+
+commit 59e5bb4b9738dfdc89d16e56f527d3bdbcb56ec6
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:10:03 2024 +0500
+
+    Revert "Add status"
+    
+    This reverts commit fb6efdb5a0bceb14fefe0229214f092cac024209.
+
+commit 9fe845f1bb40cecbbbb9f949fa91ddf7a9bae76a
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:06:06 2024 +0500
+
+    Add classroom
+
+commit fb6efdb5a0bceb14fefe0229214f092cac024209
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:01:04 2024 +0500
+
+    Add status
+    
+    Add class name
+
+commit 33746dc54ab316b583e4465a8770dd898363be73
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 11:58:45 2024 +0500
+
+    Initial commit
+
+commit 1afd2aa4a3902eacec8916956ed6f570ebc4ae28
+Author: holasoyann <nktnnnl@gmail.com>
+Date:   Fri Nov 8 02:17:06 2024 +0500
+
+    done task
+
+commit bc1c01eb103e17f9cafeb28eb8f8c93da73b643e
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Fri Nov 8 00:29:24 2024 +0500
+
+    task
+
+commit 65325cebe858636147b19782ecf048ac047d324c
+Merge: f62b2a0 9a56c79
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Fri Nov 8 00:05:29 2024 +0500
+
+    merge
+
+commit f62b2a0f7c7e7dadcb3dbc00a6175156f2ff709e
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:45:11 2024 +0500
+
+    pass task
+
+commit 449e2fe372eaafcac3fc4851b2bfa65445a537de
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:44:40 2024 +0500
+
+    logs
+
+commit 9a56c7938d38cd0d405d8bc5cae1fc61c2d255e1
+Author: Anastasiia Grigoreva <grinastich@gmail.com>
+Date:   Thu Nov 7 23:21:51 2024 +0500
+
+    файл с логами
+
+commit b228f64eda2e8029348a6a50e707fd75cfb98899
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:11:40 2024 +0500
+
+    add gitignore
+
+commit 62bd566fa1cc9826d0d5732f60b26e05b4034787
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:05:44 2024 +0500
+
+    Revert "Мой второй коммит"
+    
+    This reverts commit 7802efefb3c8b05d716339a94310019a78423296.
+
+commit 2f362b13f9b1428be06c50069ed16e2fededdc6d
+Author: Anastasiia Grigoreva <grinastich@gmail.com>
+Date:   Thu Nov 7 23:04:03 2024 +0500
+
+    grigoreva
+
+commit 863d3f2413029530127a28f7942b4ad710339c64
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:57:32 2024 +0500
+
+    Третий коммит
+
+commit 7802efefb3c8b05d716339a94310019a78423296
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:40:27 2024 +0500
+
+    Мой второй коммит
+
+commit 08c82d7d086ae2c486f35ecbd620a3681e365b5b
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 22:51:52 2024 +0500
+
+    Добавил время и свои логи
+
+commit 1b951164e6abb7c57c3b5caf49ae799ec8cde139
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:36:23 2024 +0500
+
+    Мой первый коммит
+
+commit 4efa670952008f6dfa81296513d497bfd45704c6
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Thu Nov 7 20:12:16 2024 +0500
+
+    добавлены логи локального репозитория
+
+commit d8c4e709323389c6a9b560a97ce112078fdd455f
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Thu Nov 7 18:20:57 2024 +0500
+
+    added my time
+
+commit 8a450b2890e21db62b0b6aca4f519fd1234c380d
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:26:34 2024 +0500
+
+    new file
+
+commit e5baa292a70515f086a70b9ad8e640842a5f035b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:18:28 2024 +0500
+
+    created .gitigonre
+
+commit bad2aacfe9e14afc5e31cc2b95a3bdc9a44e3e03
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:09:00 2024 +0500
+
+    Revert "added current status"
+    
+    This reverts commit d4e1d42f1452f01788f708e97762c89543deaa33.
+
+commit 6853f190f824a6f56a31806baad696493ba2fc2c
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:01:14 2024 +0500
+
+    added lesson place
+
+commit d4e1d42f1452f01788f708e97762c89543deaa33
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:52:37 2024 +0500
+
+    added current status
+
+commit 8e4ec68791774b2a5462f7783058d11cf9534d7b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:48:06 2024 +0500
+
+    message
+
+commit 4752346c17e92fc2bead937f74e54c44468430f3 (HEAD -> PRERELEASE, origin/PRER
+ELEASE)
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 16:14:36 2024 +0300
+
+    Добавлен файл prerelease.txt в ветку PRERELEASE
+
+commit af00ade5cbf777b206dae6bcc913ac7f32f640fd (origin/main, origin/TEST, main,
+ TEST)
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 16:22:32 2024 +0300
+
+    Добавлен файл test.txt в ветку TEST
+
+commit 90047285d97488f74d652fc3be4dc3e9e0e3f61e
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 15:26:24 2024 +0300
+
+    Revert "Второй commit"
+
+    This reverts commit ae0aa82569e7f6b95f3afe37666493e3b90bb406.
+
+commit 075e1c57033b07c23c29aa877a134df17db601db
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 15:09:35 2024 +0300
+
+    Третий коммит
+
+commit ae0aa82569e7f6b95f3afe37666493e3b90bb406
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:54:56 2024 +0300
+
+    Второй commit
+
+commit 0e9db1c50e3c4e948330b302e6e19cc9b432b271
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:37:04 2024 +0300
+
+    Мой первый коммит
