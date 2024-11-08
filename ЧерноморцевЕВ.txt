@@ -1,0 +1,43 @@
+commit 1502b8e3aadea1f73e570b98364c2ec5954980fc
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 21:40:46 2024 +0500
+
+    Добавлен файл prerelease.txt
+
+commit c422f1bfae22b0a6304a60ed02550780a583a9ff
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 21:38:22 2024 +0500
+
+    Added test.txt file
+
+commit e6f266f5a38a289a584932114724a20872e8f125
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 21:35:16 2024 +0500
+
+    Добавил гитигнор
+
+commit 33c973ddce1467278f0ea3cc312eb7e92cc09b87
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 21:29:53 2024 +0500
+
+    Revert "Коммит с оценкой в файле readme and name of subcject"
+    
+    This reverts commit 0d59bcc7ea5890849ac97794338ce515d7fd23b8.
+
+commit e59084f69d9dda2505cad426a3956242f48c8cb7
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 20:41:53 2024 +0500
+
+    Fourth row with cabinet number
+
+commit 0d59bcc7ea5890849ac97794338ce515d7fd23b8
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 20:29:50 2024 +0500
+
+    Коммит с оценкой в файле readme and name of subcject
+
+commit 7863de41c1e26efda74791691b42dd59bd6bcede
+Author: Egor Chernomortsev <locenok89@mail.ru>
+Date:   Thu Nov 7 20:28:03 2024 +0500
+
+    Мой первый коммит

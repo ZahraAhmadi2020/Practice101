@@ -1,0 +1,43 @@
+commit da7bc9902d860e03b0b748c702641df41ba27740
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:28:58 2024 +0500
+
+    Добавлен файл prerelease.txt в ветке PRERELEASE
+
+commit 81d81db97b2703b000007a4d285b9884bb78fbac
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:27:24 2024 +0500
+
+    Добавлен файл test.txt в ветке TEST
+
+commit 7f9dd904fac5502aaad93f055bed1bde53707652
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:23:06 2024 +0500
+
+    Добавлен файл для игнорирования
+
+commit d5a209fc72608cc3d6f9231a3d29bbd21ba0e7fb
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:19:54 2024 +0500
+
+    Revert "Добавлена оценка 5 по шкале"
+    
+    This reverts commit f5f07cbbd8140aa9903881cd875a0b57cd7def28.
+
+commit a2aa3f4d178a6dcbe9cb24268e339f938366ce70
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:12:58 2024 +0500
+
+    Добавлена аудитория
+
+commit f5f07cbbd8140aa9903881cd875a0b57cd7def28
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:09:25 2024 +0500
+
+    Добавлена оценка 5 по шкале
+
+commit c515d45bbc714f6fd188557417bae251ee952d18
+Author: Bekhruz Norov <behruz.orientalist1998@mail.ru>
+Date:   Fri Nov 8 17:07:46 2024 +0500
+
+    Добавлен файл readme.txt с информацией о группе и фамилии

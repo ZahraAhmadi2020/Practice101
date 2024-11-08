@@ -1,0 +1,37 @@
+commit 8a450b2890e21db62b0b6aca4f519fd1234c380d
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:26:34 2024 +0500
+
+    new file
+
+commit e5baa292a70515f086a70b9ad8e640842a5f035b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:18:28 2024 +0500
+
+    created .gitigonre
+
+commit bad2aacfe9e14afc5e31cc2b95a3bdc9a44e3e03
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:09:00 2024 +0500
+
+    Revert "added current status"
+    
+    This reverts commit d4e1d42f1452f01788f708e97762c89543deaa33.
+
+commit 6853f190f824a6f56a31806baad696493ba2fc2c
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 11:01:14 2024 +0500
+
+    added lesson place
+
+commit d4e1d42f1452f01788f708e97762c89543deaa33
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:52:37 2024 +0500
+
+    added current status
+
+commit 8e4ec68791774b2a5462f7783058d11cf9534d7b
+Author: Arseny Kozhevnikov <mister23krut@gmail.com>
+Date:   Sat Nov 2 10:48:06 2024 +0500
+
+    message
