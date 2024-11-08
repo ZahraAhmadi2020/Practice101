@@ -193,3 +193,43 @@ Author: Arseny Kozhevnikov <mister23krut@gmail.com>
 Date:   Sat Nov 2 10:48:06 2024 +0500
 
     message
+
+commit 4752346c17e92fc2bead937f74e54c44468430f3 (HEAD -> PRERELEASE, origin/PRER
+ELEASE)
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 16:14:36 2024 +0300
+
+    Добавлен файл prerelease.txt в ветку PRERELEASE
+
+commit af00ade5cbf777b206dae6bcc913ac7f32f640fd (origin/main, origin/TEST, main,
+ TEST)
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 16:22:32 2024 +0300
+
+    Добавлен файл test.txt в ветку TEST
+
+commit 90047285d97488f74d652fc3be4dc3e9e0e3f61e
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 15:26:24 2024 +0300
+
+    Revert "Второй commit"
+
+    This reverts commit ae0aa82569e7f6b95f3afe37666493e3b90bb406.
+
+commit 075e1c57033b07c23c29aa877a134df17db601db
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 15:09:35 2024 +0300
+
+    Третий коммит
+
+commit ae0aa82569e7f6b95f3afe37666493e3b90bb406
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:54:56 2024 +0300
+
+    Второй commit
+
+commit 0e9db1c50e3c4e948330b302e6e19cc9b432b271
+Author: Aleksandr Balabanov <aleksandrandreevichbalabanov@gmail.com>
+Date:   Fri Nov 8 14:37:04 2024 +0300
+
+    Мой первый коммит
