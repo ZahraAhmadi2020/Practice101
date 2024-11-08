@@ -1,0 +1,43 @@
+commit f35e2127f3298bc6eee43c89f78006eafba73406
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:47:46 2024 +0500
+
+    prerelease
+
+commit b2a71ce4cfd1290d246ac60e01810bcb91ca28e8
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:47:18 2024 +0500
+
+    add test.txt
+
+commit 5d125896357e2b783b9d5e362b1fb9090e6aafa8
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:45:09 2024 +0500
+
+    add gitignore
+
+commit 851f7580e39a529a22af3c33e494cb6c6aef40f8
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:44:03 2024 +0500
+
+    Revert "my status"
+    
+    This reverts commit 8ffe682d4bfb4f9574ab79e0117533dc28538c1c.
+
+commit d85e9c5f598ed30e7e3c9673d44278df5fa5443b
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:41:36 2024 +0500
+
+    classroom
+
+commit 8ffe682d4bfb4f9574ab79e0117533dc28538c1c
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:39:05 2024 +0500
+
+    my status
+
+commit ba1e634c88656b589eba64c0d7d8f7a3c730d954
+Author: Verein Vadim <vadikverein45@gmail.com>
+Date:   Sat Nov 9 00:37:56 2024 +0500
+
+    Мой первый коммит

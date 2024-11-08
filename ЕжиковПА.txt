@@ -1,0 +1,37 @@
+commit f425a6457c9ab11f0f6a50629a3d487c466fd6fc
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 22:39:48 2024 +0500
+
+    Добавил тестовый файл в ветку TEST
+
+commit 1259ef69466d194a3ade79c6c29e1ecb10b15855
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 22:36:35 2024 +0500
+
+    Добавил .gitignore
+
+commit bbbfdae5cecc7aa514b0502550b5447044cbe5ff
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 22:31:08 2024 +0500
+
+    Revert "Добавил оценку текущего статуса, изменен"
+
+    This reverts commit 7516b72921c9a58403e8cc35ad00d439540d2b61.
+
+commit f219d2bb430cd2aea4ee450d5a1d644fa6aa328d
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 22:27:08 2024 +0500
+
+    Добавил аудиторию
+
+commit 7516b72921c9a58403e8cc35ad00d439540d2b61
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 22:02:51 2024 +0500
+
+    Добавил оценку текущего статуса, изменен
+
+commit 97e8aafdf5ddc47c615f226361aa4160a4bf1c31
+Author: Pavel Yozhikov <mail@dfjay.com>
+Date:   Fri Nov 8 21:59:44 2024 +0500
+
+    Мой первый коммит
