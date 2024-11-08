@@ -1,0 +1,31 @@
+commit b228f64eda2e8029348a6a50e707fd75cfb98899
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:11:40 2024 +0500
+
+    add gitignore
+
+commit 62bd566fa1cc9826d0d5732f60b26e05b4034787
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 23:05:44 2024 +0500
+
+    Revert "Мой второй коммит"
+    
+    This reverts commit 7802efefb3c8b05d716339a94310019a78423296.
+
+commit 863d3f2413029530127a28f7942b4ad710339c64
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:57:32 2024 +0500
+
+    Третий коммит
+
+commit 7802efefb3c8b05d716339a94310019a78423296
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:40:27 2024 +0500
+
+    Мой второй коммит
+
+commit 1b951164e6abb7c57c3b5caf49ae799ec8cde139
+Author: Kirill Dmitriev <kirilldmitriev20015@gmail.com>
+Date:   Thu Nov 7 22:36:23 2024 +0500
+
+    Мой первый коммит
