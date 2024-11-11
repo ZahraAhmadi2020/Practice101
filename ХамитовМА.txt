@@ -1,0 +1,29 @@
+commit f6e2eace89ac47aaf338f535280b9c0bc53e5210
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:41:46 2024 +0500
+
+    add test.txt
+
+commit 2b0e10d856dca4d395c7dc458989b28a945b8c73
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:40:16 2024 +0500
+
+    add gitignore
+
+commit 23411088a564ddbd823e9271103a87fed4be56f5
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:38:32 2024 +0500
+
+    third
+
+commit 51f222d649551cc69b5e1d44fa0453040621b65f
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:36:08 2024 +0500
+
+    second, changed
+
+commit 6f352a6a70da03a9fd636fa9ff1520e886f6411b
+Author: maximkhamitov <maxikham@gmail.com>
+Date:   Mon Nov 11 23:27:37 2024 +0500
+
+    Initial commit

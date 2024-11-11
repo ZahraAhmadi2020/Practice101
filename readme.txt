@@ -23,3 +23,6 @@ Program Ingeneering
 online lessons place: bbb
 >>>>>>> practice/main
 РИМ-140970 Хамитов М.А.
+status - 1
+Программная инженерия
+Р-341
