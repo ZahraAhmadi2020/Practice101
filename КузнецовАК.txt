@@ -1,0 +1,39 @@
+commit 1a2d19dba4bb0445624998631161d4f68b0ce99c
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:18:09 2024 +0500
+
+    Add prerelease.txt
+
+commit 46ff8608b591f3d91985101852684703deffa5b7
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:15:12 2024 +0500
+
+    Add .gitignore
+
+commit 59e5bb4b9738dfdc89d16e56f527d3bdbcb56ec6
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:10:03 2024 +0500
+
+    Revert "Add status"
+    
+    This reverts commit fb6efdb5a0bceb14fefe0229214f092cac024209.
+
+commit 9fe845f1bb40cecbbbb9f949fa91ddf7a9bae76a
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:06:06 2024 +0500
+
+    Add classroom
+
+commit fb6efdb5a0bceb14fefe0229214f092cac024209
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 12:01:04 2024 +0500
+
+    Add status
+    
+    Add class name
+
+commit 33746dc54ab316b583e4465a8770dd898363be73
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Nov 8 11:58:45 2024 +0500
+
+    Initial commit

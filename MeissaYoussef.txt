@@ -1,0 +1,49 @@
+commit 7fa6f026794e0bc3500770fcfba563b080838f2d
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 10:12:13 2024 +0100
+
+    Добавлен файл prerelease.txt в ветку PRERELEASE
+
+commit 6a8a2d00b433133ddd1c952ffd208fe74f8e3651
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 09:44:50 2024 +0100
+
+    Добавлен файл test.txt в ветку TEST
+
+commit 732ff1f2dfc1a40ca3706e8cc80bb3a12692c7a1
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sun Nov 3 09:40:01 2024 +0100
+
+    Добавлен .gitignore для игнорирования временных файлов
+
+commit 25d388ee09c5b57682eb6c4f45d0de1557d43ec3
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 10:19:35 2024 +0100
+
+    Revert "третий коммит - добавлена аудитория"
+    
+    This reverts commit e9331aa62433a7367ebcc472ce8f9323663681b1.
+
+commit 81426f8cff97932a22d084f0ca85f4adbb13409b
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 10:03:42 2024 +0100
+
+    Аудитория
+
+commit e9331aa62433a7367ebcc472ce8f9323663681b1
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 08:42:30 2024 +0100
+
+    третий коммит - добавлена аудитория
+
+commit 8ddcb576358269d631fddac2904ec326182b0e51
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 08:39:53 2024 +0100
+
+    Второй коммит
+
+commit e84452c7c6fb246f58dc59f23344f9e319562619
+Author: YoussefM-gif <youssef.meissa@mail.ru>
+Date:   Sat Nov 2 07:28:20 2024 +0100
+
+    Мой первый коммит
