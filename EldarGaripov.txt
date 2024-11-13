@@ -1,0 +1,43 @@
+commit 6cb930b3f8d021d5c7c8f5cb8684903ecdf02fce
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:18:55 2024 +0500
+
+    added prerealese.txt
+
+commit 52b143bf4481686ae0d6ac76ddf490488aa08ebe
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:17:57 2024 +0500
+
+    added test.txt
+
+commit 5c0fc1f44b977214a7c36d5b09d2edb8273d6be1
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:15:32 2024 +0500
+
+    added .gitignore
+
+commit 1f185eed2b473adac0699c56f963632eb1f06a4a
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:10:19 2024 +0500
+
+    Revert "added grade"
+    
+    This reverts commit ee8a5740e492d7cc6a824c3884c65b4a7fdb29d7.
+
+commit cea1d9aa852746938fa4e0eee2cb3ae038735f03
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:07:48 2024 +0500
+
+    added number of classroom
+
+commit ee8a5740e492d7cc6a824c3884c65b4a7fdb29d7
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:05:54 2024 +0500
+
+    added grade
+
+commit 97392691ab4635d45e24422d2cc6f934db658bbb
+Author: Eldar Garipov <garipov.eldar200@gmail.com>
+Date:   Thu Nov 14 02:02:54 2024 +0500
+
+    My first commit
