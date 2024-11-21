@@ -1,0 +1,43 @@
+commit 9d3adcc1919437385f4c2fda7e93bca0bf57f9a0
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:43:13 2024 +0500
+
+    new file in brach PRERELEASE
+
+commit 8b0589161606e1d32ae6bd7121fac029366a5435
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:41:16 2024 +0500
+
+    test file in branch TEST
+
+commit 0b3dc354a378041ce7b147048e61f2edc5d2f53f
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:35:08 2024 +0500
+
+    GitIgnore file added and reamde changes
+
+commit 0c312f4a9bd84c5cedb7dfe0f209a2afdc3305c2
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:24:01 2024 +0500
+
+    Revert "Добавлена оцена промежуточного этапа в лабораторной работе #1"
+    
+    This reverts commit 8a54da70b980bb7996210d249141fcb70df284d4.
+
+commit 80fa10e34a98351c8ad85bff68096ebdbdf30c79
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:19:30 2024 +0500
+
+    Коммит про аудиторию
+
+commit 8a54da70b980bb7996210d249141fcb70df284d4
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:05:58 2024 +0500
+
+    Добавлена оцена промежуточного этапа в лабораторной работе #1
+
+commit c41ea5cc7cadc79da5a164dc141b65787f54a056
+Author: Kirill Khlystov <khlystov-2002@mail.ru>
+Date:   Thu Nov 21 19:01:35 2024 +0500
+
+    My first commit
